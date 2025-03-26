@@ -29,7 +29,7 @@ This is a simple e-commerce application for an online bookstore built with the M
 
 1. Clone the Repository
 
-- git clone https://github.com/gokulakrishnan2327/mern-bookstore.git
+- git clone https://github.com/gokulakrishnan2327/bookstore.git
 - cd book-commerce/bookstore
 
 2. Set Up Backend
