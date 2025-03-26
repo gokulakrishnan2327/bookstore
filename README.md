@@ -29,22 +29,22 @@ This is a simple e-commerce application for an online bookstore built with the M
 
 1. Clone the Repository
 
-git clone https://github.com/gokulakrishnan2327/mern-bookstore.git
-cd book-commerce/bookstore
+- git clone https://github.com/gokulakrishnan2327/mern-bookstore.git
+- cd book-commerce/bookstore
 
 2. Set Up Backend
 
    
-cd backend
-npm install
-npm run data:import
-npm run dev
+- cd backend
+- npm install
+- npm run data:import
+- npm run dev
 
 3. Set Up Frontend
  
-cd frontend
-npm install
-npm start
+- cd frontend
+- npm install
+- npm start
 
 
 Contributing
